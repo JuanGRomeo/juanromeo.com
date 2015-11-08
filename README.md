@@ -1,2 +1,2 @@
 # juanromeo.com
-My personal website. A brief history of my proffessional life.
+My personal website. A brief history of my professional life.
